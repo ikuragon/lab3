@@ -1,5 +1,5 @@
 # lab3
 a = 4
-b = 3
+b = 4
 print (a+b)
-# should be 7
+# should be 8
